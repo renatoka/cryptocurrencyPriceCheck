@@ -2,6 +2,10 @@
 
 CPC is a simple python console application that checks the prices of given coin names.
 
+## Preview
+
+https://i.ibb.co/kMvTTRK/Capture.png
+
 ## Installation
 
 If your application automatically crashes on start, you probably need to install these libraries.
